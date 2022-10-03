@@ -1,1 +1,1 @@
-# ingridy
+# Pensamento.computacional
