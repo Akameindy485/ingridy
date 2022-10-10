@@ -3,7 +3,7 @@ body{
     }
     
     Estilizar o título principal do seu site:
-     h1{Farmacia Sanzu}
+    {
     color:
     font-family: ;
     background: ;
@@ -11,9 +11,7 @@ body{
     
     Estilizar os parágrafos:
     p{
-    {
     color: brown
-    }
     text-align:center
     font-family: ;
     font-size: ;
