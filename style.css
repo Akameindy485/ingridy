@@ -1,6 +1,6 @@
     body{
 
-    background-color: rgb(24, 93, 243);
+    background-color: rgba(92, 212, 202, 0.938);
     }
 
     p{
@@ -11,7 +11,7 @@
     }
     
     p{
-    color: rgb(12, 248, 228);
+    color: #ff3e1c;
     text-align: center;
     font-family: Arial;
     font-size: 20px;
